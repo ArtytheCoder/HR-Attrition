@@ -1,2 +1,2 @@
 # HR-Attrition
-MAchine learning Project
+Machine learning Project
